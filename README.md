@@ -31,7 +31,7 @@ S4.2 is a modal logic that extends S4 with the Geach axiom. The key features inc
 ### Axioms
 - **K**: □(A ⇒ B) ⇒ (□A ⇒ □B)
 - **T**: □A ⇒ A (reflexivity)
-- **4**: □A ⇒ □□A (transitivity) - *Note: Not derivable in this labelled system*
+- **4**: □A ⇒ □□A (transitivity)
 - **D**: □A ⇒ ♢A (seriality)
 - **Geach**: ♢□A ⇒ □♢A
 
