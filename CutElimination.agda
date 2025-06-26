@@ -1,10 +1,5 @@
 module CutElimination where
   
--- open import Data.List.Membership
-
--- open import Cubical.Core.Everything
--- open import Cubical.Foundations.Prelude using (_≡_)
-
 open import Agda.Builtin.Equality
 open import Data.Nat using (ℕ; _+_; _⊔_; _≤_; _<_; zero; suc; z≤n)
 open import Data.List.Membership.DecSetoid using (_∉?_; _∈?_)
