@@ -1,6 +1,18 @@
 # S4.2 Modal Logic in Agda
 
-This repository contains a formalization of the modal logic S4.2 using the Agda proof assistant. The implementation provides a complete sequent calculus with cut elimination and semantic models for S4.2.
+> [!WARNING]
+> This repository is obsolete.
+>
+> It was an early prototype of the S4.2 Agda formalization and is no longer
+> maintained. It contains unresolved proof holes and incomplete soundness work.
+>
+> The current paper artifact is:
+> https://github.com/eapiova/s4dot2-cut-elimination
+>
+> Ongoing development continues in:
+> https://github.com/eapiova/modal-positions
+
+This repository contains an early prototype formalization of the modal logic S4.2 using the Agda proof assistant. It has been superseded by the repositories linked above.
 
 ## Structure
 
