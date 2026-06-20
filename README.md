@@ -8,11 +8,8 @@
 >
 > The current paper artifact is:
 > https://github.com/eapiova/s4dot2-cut-elimination
->
-> Ongoing development continues in:
-> https://github.com/eapiova/modal-positions
 
-This repository contains an early prototype formalization of the modal logic S4.2 using the Agda proof assistant. It has been superseded by the repositories linked above.
+This repository contains an early prototype formalization of the modal logic S4.2 using the Agda proof assistant. It has been superseded by the paper artifact linked above.
 
 ## Structure
 
